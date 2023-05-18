@@ -60,3 +60,36 @@
 ### When compared to competitors, PayPal is the market leader holding around 45% of the marketshare and 429 million active users (2022). This makes PayPal a leader in its domain, although certain competitors like Stripe are starting to quickly gain marketshare. Further, PayPal is the most used payment processor on company websites being used on double the number of websites versus its second best alternative. The industry overall is growing at an over 10% CAGR, and PayPal is able to grow along side the industry to continue being a market leader.
 ## Recommendations
 ### *Potential New Product Offerings*
+### I believe that there are three services that PayPal could introduce in order to enhance the platform for users.
+### PayPal could potentially add a service for merchants to gain data insights about their customers, what their customers are buying, and trends that have been seen in their customers. This will allow merchants to be able to better understand their customers and tailor their services and product offerings to their customers more effectively. 
+### PayPal can also introduce a budgeting or payment split type feature that allows users to track their payments and allows friends or families to upload how much individuals owe each other. 
+### Finally, like many credit card companies, PayPal could offer incentive programs in order to gain new customers and increase the amount of active users. This will increase the total payment volume metric that PayPal analyzes. This could take the form of rewards like cashback or discounts when you complete a certain amount of transactions.
+### *Benefits to PayPal*
+### I believe that adding these services would enhance PayPal for users. It would increase the flexiblity that users and merchants have in the application and make PayPal an "all-in-one" software. Having a wide reach will increase the users and make it so that PayPal continues to be a market leader. This would increase their revenues, as it would increase the amount of transactions that are completed through the application. Further, it could increase the marketshare of PayPal.
+### *Needed Technology*
+### The technology that would be needed to achieve this would be higher data analytics software allowing PayPal to track what customers do and a secure platform to share that with merchants. Further, the rewards program would need to be tracked with a specific software in order to create an automated release of the incentives and rewards. In addition to more intensive data analytics software, PayPal would need to incorporate a tracking type of technology that would let individuals put their payments in and share their payments with peers. Certain applications have this function like Splitwise. In order to achieve this, Splitwise uses technology like HTML5, jQuery, and Google Analytics to make their application run.
+### *Fit Between Technology, PayPal, and Solution*
+### I believe that the technology needed for this additions would be appropriate for PayPal because PayPal already completes very similar services. It is not a new business or venture that would require completely new software. PayPal has experience in many of the technology softwares that would be needed for these new services, therefore, it would be easy to add them to the platform. Further, many of the needed technology PayPal may already use. These technologies would be appropriate for the new services because these services are primarily tracking and sharing data. Therefore, these technologies would be able to complete the tracking and data gathering simply and efficiently.
+## Sources
+### https://www.gurufocus.com/news/1963669/paypal-deep-value-and-a-durable-competitive-advantage#:~:text=With%20the%20ability%20to%20prevent,industry%20average%20of%20roughly%2050%25.
+### https://www.fool.com/investing/general/2016/03/28/key-metrics-how-paypal-boosts-transaction-volume.aspx 
+### https://www.britannica.com/topic/PayPal#:~:text=Paypal%20was%20the%20product%20of,in%20a%20secure%20online%20transaction.
+### https://history-computer.com/paypal-history/
+### https://about.pypl.com/who-we-are/history-and-facts/default.aspx
+### https://investor.pypl.com/home/default.aspx
+### https://www.crunchbase.com/organization/paypal/company_financials
+### https://www.paypal.com/us/brc/article/6-hidden-problems-payments-platform
+### https://about.pypl.com/who-we-are/mission-vision-values/default.aspx#:~:text=Our%20mission%20is%20to%20democratize,control%20of%20their%20financial%20lives.
+### https://uktechnews.co.uk/2022/07/18/what-is-the-technology-behind-paypal/#:~:text=Tech%20for%20security%20key,via%20128%2Dbit%20SSL%20technology.
+### https://www.cashbook.com/changes-in-payment-trends-over-the-last-10-years/
+### https://www.mollie.com/news/payment-industry-trends
+### https://www.investopedia.com/articles/markets/101415/4-best-alternatives-paypal.asp
+### https://newsroom.paypal-corp.com/2023-05-03-PayPals-2022-Global-Impact-Report
+### https://about.pypl.com/values-in-action/reporting/global-impact-report/default.aspx
+### https://www.paypalobjects.com/ecm_assets/PayPal_BVSolutionBrief_US47471121_FINAL.pdf
+### https://finance.yahoo.com/news/comparing-paypal-nasdaq-pypl-competitors-163610013.html
+### https://seekingalpha.com/article/4444245-paypal-the-star-business
+### https://www.crunchbase.com/organization/splitwise/technology#:~:text=About,its%20website%2C%20according%20to%20BuiltWith.
+### https://aim-blog.com/paypal-marketing-mix-7ps/#:~:text=Target%20Market%20of%20Paypal%3A,and%20receive%20payments%20from%20overseas.
+### https://www.searchlogistics.com/learn/statistics/ecommerce-statistics/
+### https://www.businessofapps.com/data/mobile-payments-app-market/#:~:text=Mobile%20payments%20are%20used%20by,favour%20of%20using%20mobile%20apps.
