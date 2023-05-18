@@ -23,5 +23,40 @@
 ### *Domain*
 ### PayPal is a financial technology companies in the online payment systems domain.
 ### *Domain Trends*
-### In the last 10 years, online payments have increased and become extremely popular.  Due to this, there have been many changing trends in the online payment sector. Firstly, there has been increased regulations in different countries regarding online payments and the saftey and security behind them. This means that online payment platforms need to pivot to ensure they are following all the new regulations that are constantly being introduced. 
-### Further, Cryptocurrencies have become a new online digitial currency that has taken place as a new way to make payments. 
+### In the last 10 years, online payments have increased and become extremely popular. Due to this, there have been many changing trends in the online payment sector. 
+### First, over the last 5-10 years mobile payments have become extremely popular as individuals have become more likely to use their phones to pay. This is seen through the increase in apps like Apple Pay, Google Pay, etc. Further, this is also seen through contactless payment, as individuals use their phone or cards to tap payment terminals versus paying with cash or inserting their card. 
+### Second, there has been a large increase in peer-to-peer payments. This occurs when individuals transfer money to each other versus to a merchant. There are now many applications that help users achieve this. For example, Venmo, which is owned by PayPal, PayPal itself, Interac, etc.
+### Third, there has been increased regulations in different countries regarding online payments and the saftey and security behind them. This means that online payment platforms need to pivot to ensure they are following all the new regulations that are constantly being introduced. 
+### Fourth, Cryptocurrencies have become a new online digitial currency that has taken place as a new way to make payments. Blockchain technology developments have also emerged, removing intermediaries in the payment sphere.
+### Fifth, payment fraud has also been a major trend in this sector. As payments have moved online, they are suceptible to much more risks and uncertainties if they are not properly protected.
+### Finally, there has been a massive expansion of global money transfers and cross-border transactions. This has been seen with the simultanious growth of e-commerce platforms and shops. E-commerce platforms have integrated online payment services in order to make business more efficient and cater to a global market.
+### To conclude, the last 5-10 years has seen massive expansion of online payments and many different trends and innovations that has allowed this sector to overtake regular cash payments. 
+### *Other Major Companies*
+### There are many major companies in this domain. The following are a few examples:
+### - Stripe
+### - Square
+### - Alipay
+### - Amazon Pay
+### - Google Pay
+### - Braintree
+### - Skrill
+### - Payoneer
+### - Quickbooks Go Payment
+## Results 
+### *Business Impact*
+### PayPal's 2022 Global Impact report outlines multiple ways that the company is aiming to achieve their mission "to democratize financial services for a more equitable, inclusive, and resilient global economy".
+### The company is committed to hiring a diverse workforce of both ethnic and gender diversity. Further, the company has acheived success in their social innovation, helping small-to medium- sized business access $4.2B in capital in 2022 alone. PayPal has also supported their customers by donating 1.4M in 2022 to nonprofits and charities. The company has an Economic Opportunity Fund that invests in minority group-led funds and businesses. The company has also invested heavily into their environmental sustainability, achieving 90% total renewable energy use.
+### In addition to their global impact and ESG commitments, PayPal has allowed their customers to have flexible options when completeing payments in adition to allowing their clients access to resources, an international market, and higher conversion rates. All of these things have increased customer satisfaction and established PayPal as the leading provider of digital payment technology. 
+### *Core Metrics and Performance*
+### Certain metrics that are used to track how successfull payment providers are the following: 
+### - Conversion rate (the number of successful transactions)
+### - Number of transactions a month or year 
+### - Number of active users 
+### - Number of new users 
+### - Number of errors experienced
+### - Total payment volume
+### - Transactions per active account
+### *PayPal Performance*
+### When compared to competitors, PayPal is the market leader holding around 45% of the marketshare and 429 million active users (2022). This makes PayPal a leader in its domain, although certain competitors like Stripe are starting to quickly gain marketshare. Further, PayPal is the most used payment processor on company websites being used on double the number of websites versus its second best alternative. The industry overall is growing at an over 10% CAGR, and PayPal is able to grow along side the industry to continue being a market leader.
+## Recommendations
+### *Potential New Product Offerings*
